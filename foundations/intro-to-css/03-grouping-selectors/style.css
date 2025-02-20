@@ -1,4 +1,8 @@
-.shared {
-    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
-    font-size: 28px;
+.this {
+    background-color: black;
+    color: white;
+}
+    
+.that {
+    background-color: hsl(60, 100%, 50%);
 }
